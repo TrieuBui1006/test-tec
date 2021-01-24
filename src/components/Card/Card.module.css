@@ -1,0 +1,41 @@
+.Card {
+  width: 300px;
+  padding: 20px;
+  box-shadow: 1px 2px 3px rgba(218, 216, 216, 0.808);
+  /* margin: 10px; */
+  border-radius: 5px;
+  background-color: #0a1d31;
+}
+
+.Image {
+  max-width: 100%;
+}
+
+.Detail {
+  text-align: left;
+  color: #fff;
+}
+
+.Detail h2,
+p {
+  margin: 0;
+}
+
+.Actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.RemoveBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background-color: #cf2122;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}

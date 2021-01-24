@@ -1,0 +1,16 @@
+.Jauge {
+  margin: 0;
+}
+
+.Jauge button {
+  border: none;
+  color: #ccc;
+  background-color: transparent;
+  font-size: 1.1em;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.Jauge button:focus {
+  outline: 0;
+}

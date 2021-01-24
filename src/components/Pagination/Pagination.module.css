@@ -1,0 +1,31 @@
+.Pagination {
+  width: 320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  font-size: 0.8em;
+}
+
+.Select {
+  background-color: transparent;
+  border: none;
+  border-bottom: solid 1px #ccc;
+  margin: 0 10px;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: inherit;
+  line-height: inherit;
+}
+
+.Detail {
+  margin-right: 10px;
+}
+
+.Button {
+  font-size: 1em;
+  border: none;
+  background-color: transparent;
+  padding: 5px;
+  margin-top: 5px;
+}

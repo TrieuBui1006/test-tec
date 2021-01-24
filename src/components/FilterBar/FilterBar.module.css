@@ -1,0 +1,19 @@
+.FilterBar {
+  margin: 0 auto;
+  width: 320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Select {
+  background-color: #fff;
+  border: none;
+  border-bottom: solid 1px rgb(146, 145, 145);
+  width: 100%;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: inherit;
+  line-height: inherit;
+}
